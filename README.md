@@ -126,14 +126,12 @@ I am particularly interested in engineering work involving:
 
 ## GitHub activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fajouri&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajouri&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
+My public GitHub is a mix of teaching material, experiments and personal projects. A significant part of my professional engineering work lives in private company and client repositories, so public contribution counts only show part of my engineering activity.
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fajouri&hide_border=true&area=true" alt="Contribution activity" />
-
-> A significant part of my professional engineering work lives in private company and client repositories, so public GitHub activity is only one part of the picture.
+- [View my public repositories](https://github.com/fajouri?tab=repositories)
+- [View my contribution history](https://github.com/fajouri?tab=overview)
+- [Intro to AI](https://github.com/fajouri/IntroToAI)
+- [House Price Prediction](https://github.com/fajouri/HousePricePrediction)
 
 ---
 
