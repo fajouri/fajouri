@@ -1,193 +1,152 @@
-# Hi, I'm Yamil Emmanuel Fajouri 👋
+# Yamil Emmanuel Fajouri
 
-### Development Team Lead · Senior .NET Engineer · AI & Distributed Backend
+**Software Engineering Lead · .NET Backend · Cloud · Applied AI**  
+Malta · EU-based · Building production systems across fintech, enterprise software and AI automation
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&center=true&vCenter=true&width=760&lines=C%23+%2F+.NET+%7C+Azure+%7C+Backend+Architecture;Technical+Leadership+%7C+Fintech+%7C+Distributed+Systems;AI+Agents+%7C+Python+%7C+LangChain+%7C+MCP;15%2B+Years+Building+Production+Software" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuelfajouri"><img src="https://img.shields.io/badge/LinkedIn-Yamil%20Fajouri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:emmanuel.fajouri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://arpay.ee"><img src="https://img.shields.io/badge/Arpay-Software%20Consulting-181717?style=for-the-badge&logo=github&logoColor=white" alt="Arpay" /></a>
-  <img src="https://komarev.com/ghpvc/?username=fajouri&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-15%2B%20Years-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20Backend%20%7C%20AI-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Industry-Fintech-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based%20in-Malta-C8102E?style=for-the-badge" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuelfajouri)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emmanuel.fajouri@gmail.com)
+[![Arpay](https://img.shields.io/badge/Arpay-consulting-222222?style=flat)](https://arpay.ee)
 
 ---
 
-## 🚀 About me
+## Engineering profile
 
-Senior software engineer and technical lead with **15+ years of experience** building and modernising production software across **fintech, e-commerce, enterprise and public-sector environments**.
+I am a **software engineer and technical lead with 15+ years of experience** designing, modernising and operating business-critical applications.
 
-- 🧭 Progressed from **Software Engineer → Senior Engineer → Lead Software Engineer → AI / Backend Technical Lead**.
-- 💻 Strongest in **C#, modern .NET, backend architecture, APIs, distributed systems and SQL**.
-- ☁️ Production experience with **Microsoft Azure**, including App Services, Functions, API Management, Azure SQL, Key Vault, Service Bus, Event Grid and observability.
-- 👥 Led and mentored engineering teams, owned code-quality standards, technical decisions, reviews and delivery practices.
-- 🧪 Strong advocate of **TDD, automated testing, maintainability, secure engineering and CI/CD**.
-- 🤖 Building **production AI automation and agentic systems** with Python, LangChain, C#, .NET and MCP.
-- 🎓 University lecturer in **Artificial Intelligence and Data Visualization** in Malta.
-- 🌍 Based in **Malta** and experienced working across international teams in Europe and the Americas.
-- 🗣️ Spanish native · English professional proficiency · Italian professional proficiency.
+My work sits mostly at the intersection of **backend engineering, distributed systems, cloud platforms and technical leadership**. I have spent several years in financial services in Malta, leading developers and delivering .NET services where reliability, security, observability and maintainability matter.
 
-> **Open to:** Development Team Lead · Lead Software Engineer · Senior / Principal .NET Engineer · Backend / Platform Engineering · Applied AI Engineering.
+More recently, I have also been building **production AI automation and agent-based systems**, combining Python orchestration with .NET services and secure integrations to enterprise systems.
 
----
+```text
+core        C# · .NET · Backend Architecture · SQL
+cloud       Azure · AWS · Docker · Terraform · CI/CD
+systems     APIs · Microservices · Messaging · Event-driven workflows
+quality     TDD · Automated Testing · Code Review · Observability
+ai          Python · LangChain · MCP · Agent orchestration
+leadership  Technical direction · Mentoring · Delivery · Engineering standards
+```
 
-## 💼 Career highlights
+## What I bring
 
-### 🤖 AI-powered Financial Automation — Senior Software Engineer
-**2025 → Present · International / Remote**
+| Area | Production experience |
+| --- | --- |
+| **Backend engineering** | Modern .NET, C#, REST APIs, Entity Framework Core, modular services and integration-heavy systems |
+| **Cloud & platform** | Azure App Service, Functions, API Management, Key Vault, Azure SQL, Service Bus, Event Grid, storage and monitoring |
+| **Architecture** | Distributed components, secure APIs, event-driven workflows, modularisation and platform modernisation |
+| **Data** | SQL Server, Azure SQL, Oracle / PL-SQL, relational modelling and data-intensive business systems |
+| **Quality** | TDD, unit/integration testing, code review, Sonar quality gates, CI/CD and production observability |
+| **Leadership** | Team leadership, mentoring, technical decisions, engineering standards and stakeholder collaboration |
+| **Applied AI** | Agent orchestration, LangChain, MCP, Python/.NET integration, structured outputs, RBAC and human-in-the-loop workflows |
 
-Leading development of an AI-powered automation platform for complex financial and back-office operations. Designed multi-agent workflows using **Python, LangChain, C#, .NET and MCP**, including orchestration, tool execution, validation, role-based access, auditability, human approval and recovery mechanisms.
+## Selected engineering work
 
-### 🏦 Andaria Financial Services — Lead Software Engineer
-**2021 → 2025 · Malta**
+### Financial operations automation
+**Python · LangChain · C# · .NET · MCP · distributed workflows**
 
-Led a team of four developers delivering secure financial-services capabilities and **.NET Core microservices**. Owned key parts of the Azure platform, backend architecture, testing strategy, code quality, CI/CD and production observability.
+Building automation for complex financial and back-office operations using coordinated AI agents and conventional backend services. The system integrates orchestration, state/context management, tool execution, validation, approval controls, auditability and recovery mechanisms.
 
-### 🛒 Gruppo EURIS / YOOX — Software Engineer
-**2019 → 2021 · Italy**
+### Qhali — multi-tenant healthcare SaaS
+**.NET 8 · EF Core · Azure SQL · MVC · Identity · multi-tenancy**
 
-Developed and maintained backend components for a large international e-commerce platform using **.NET Core, Scala, AWS, SQL Server and Terraform**.
+Long-running clinic management platform covering patients, appointments, medical records, attachments and operational workflows. Current engineering work focuses on stronger tenant isolation, role-based administration, audit trails, export capabilities and production safety.
 
-### 🧮 Deloitte — Software Engineer
-**2013 → 2016 · Argentina**
+> The main repository is private. Architecture and engineering decisions can be discussed without exposing customer or clinical data.
 
-Built enterprise actuarial and rating systems using **C#, .NET, Entity Framework, Angular and SQL Server**, collaborating closely with business and actuarial teams.
+### Financial services platform engineering
+**.NET · Azure · SQL · Service Bus · Event Grid · DevOps**
 
-### 🎓 Ascencia Business School — Lecturer
-**2025 → Present · Malta**
+Led a development team in a Malta financial-services environment, shaping backend architecture, engineering standards, CI/CD, testing and production observability for secure services and integrations.
 
-Teach master's-level courses covering **Artificial Intelligence, machine learning concepts, generative AI, AI ethics, Python, Power BI, Tableau and D3.js**.
+### Teaching & technical communication
+**Artificial Intelligence · Data Visualization · Python · Power BI · Tableau**
 
----
-
-## 🛠 Tech Stack
-
-### Languages & Frameworks
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-### Backend, APIs & Distributed Systems
-
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
-![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-2E8B57?style=for-the-badge)
-![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Event Grid](https://img.shields.io/badge/Azure%20Event%20Grid-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Agent%20Tooling-111111?style=for-the-badge)
-
-### Cloud, DevOps & Delivery
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Data
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI Engineering
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Production%20Automation-8A2BE2?style=for-the-badge)
-![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-.NET%20AI-512BD4?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-Orchestration%20%26%20Integration-111111?style=for-the-badge)
-
-### Engineering & Leadership
-
-![TDD](https://img.shields.io/badge/TDD-CC0000?style=for-the-badge)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-xUnit%20%7C%20NUnit%20%7C%20MSTest-25A162?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
-![PRINCE2](https://img.shields.io/badge/PRINCE2-Practitioner-3B3B3B?style=for-the-badge)
-![Leadership](https://img.shields.io/badge/Leadership-Team%20Mentoring-2E8B57?style=for-the-badge)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-Sonar-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+University lecturer in Malta teaching master’s-level subjects in Artificial Intelligence and Data Visualization. Teaching keeps me close to fundamentals while forcing technical ideas to be communicated clearly.
 
 ---
 
-## 📌 Selected work
+## Technology map
 
-### 🏥 Qhali — Multi-tenant Healthcare SaaS
+**Languages & runtime**  
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-A production-oriented healthcare CRM / clinic management platform built with **.NET 8, C#, EF Core and Azure SQL**. The system includes tenant isolation, role-based authorization, audit logging, patient management, appointments, clinical records, exports and security-focused workflows.
+**Cloud & delivery**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 
-`Private repository · .NET 8 · EF Core · Azure SQL · Multi-tenancy · RBAC · Audit · GDPR-oriented architecture`
+**Engineering practices**  
+![TDD](https://img.shields.io/badge/TDD-practice-444444?style=flat)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-pipelines-444444?style=flat)
+![REST](https://img.shields.io/badge/REST-APIs-444444?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-architecture-444444?style=flat)
+![Observability](https://img.shields.io/badge/Observability-production-444444?style=flat)
 
-### 🤖 Financial Operations AI Automation
-
-Production AI automation architecture combining **Python orchestration, .NET services, MCP-based tools, distributed workflows, validation, RBAC, auditability and human-in-the-loop controls** for financial and operational processes.
-
-`Python · C# · .NET · LangChain · MCP · APIs · Docker · Distributed Systems`
-
-### 🎓 AI Education & Experiments
-
-Teaching material and practical experiments supporting university courses in AI, machine learning and applied data work.
-
-- [IntroToAI](https://github.com/fajouri/IntroToAI)
-- [HousePricePrediction](https://github.com/fajouri/HousePricePrediction)
-- [DataViz](https://github.com/fajouri/DataViz)
-
-### 🧱 .NET Architecture
-
-- [MVC Clean Architecture](https://github.com/fajouri/MVCCleanArchitecture.) — architecture and maintainability patterns in .NET.
-- [seeddmsNetClient](https://github.com/fajouri/seeddmsNetClient) — .NET integration work around SeedDMS.
-
----
-
-## 🏆 Certifications & Education
-
-- 📜 **PRINCE2 Practitioner**
-- 🔐 **Google Cybersecurity Specialization Certificate** — Google
-- 🤖 **Building AI Applications with Semantic Kernel and C#** — Pluralsight
-- 🗄️ **Introduction to Distributed SQL and CockroachDB** — Cockroach Labs
-- 🎓 **Bachelor's Degree in Information Technology** — Universidad Argentina de la Empresa
+**AI engineering**  
+![LangChain](https://img.shields.io/badge/LangChain-agents-1C3C3C?style=flat)
+![MCP](https://img.shields.io/badge/MCP-tooling-6B5B95?style=flat)
+![AI Agents](https://img.shields.io/badge/AI_Agents-orchestration-111111?style=flat)
 
 ---
 
-## 📊 GitHub in numbers
+## Career snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fajouri&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Yamil's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajouri&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+**2025 → now · Senior Software Engineer — Remitee**  
+AI-powered automation, agent orchestration and backend integrations for financial operations.
+
+**2025 → now · Lecturer — Ascencia Business School, Malta**  
+Artificial Intelligence and Data Visualization.
+
+**2021 → 2025 · Lead Software Engineer — Andaria Financial Services, Malta**  
+Led developers delivering secure .NET financial services on Azure.
+
+**2019 → 2021 · Software Engineer — Gruppo EURIS, Italy**  
+Backend development for the international e-commerce platform yoox.com using .NET Core, Scala, AWS and Terraform.
+
+**Earlier** · Deloitte · Lagash · DotIT · ASINCE  
+Enterprise software, invoicing platforms, mobile/backend systems and Oracle/.NET applications across Argentina and Italy.
+
+---
+
+## Current focus
+
+I am particularly interested in engineering work involving:
+
+- high-quality **.NET backend and platform engineering**;
+- **technical leadership** with meaningful hands-on architecture and development;
+- secure **fintech and regulated systems**;
+- distributed workflows, integration-heavy platforms and cloud modernisation;
+- practical **AI agents and automation** connected to real business systems.
+
+## GitHub activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fajouri&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajouri&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fajouri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fajouri&hide_border=true&area=true" alt="Contribution activity" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fajouri&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
-> A significant part of my recent production work lives in private repositories and enterprise environments, so public GitHub activity represents only part of my engineering work.
+> A significant part of my professional engineering work lives in private company and client repositories, so public GitHub activity is only one part of the picture.
 
 ---
 
-## 🤝 Let's connect
+## Credentials
 
-If you're building **financial platforms, enterprise .NET systems, distributed backend services, AI-powered automation or engineering teams**, I'm always interested in discussing technically challenging work and meaningful products.
+- **Building AI Applications with Semantic Kernel and C#** — Pluralsight
+- **Google Cybersecurity Specialization** — Google
+- **Introduction to Distributed SQL and CockroachDB** — Cockroach Labs
+- **PRINCE2 Practitioner**
+- **Bachelor's Degree in Information Technology** — Universidad Argentina de la Empresa
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuelfajouri"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emmanuel.fajouri@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/fajouri?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+## Contact
+
+For engineering leadership, senior .NET/backend, platform or applied-AI opportunities:
+
+**[LinkedIn](https://www.linkedin.com/in/emmanuelfajouri)** · **[Email](mailto:emmanuel.fajouri@gmail.com)** · **[Arpay](https://arpay.ee)**
